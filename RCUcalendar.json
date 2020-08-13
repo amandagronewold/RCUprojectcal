@@ -1,0 +1,417 @@
+{"projects":[ {
+   "Team": "Communication",
+   "ProjectName": "CTSO conference materials",
+   "StartMonth": "January",
+   "EndMonth": "April",
+   "ProjectOwner": "Amanda",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "CTE Promotional Toolkit updates",
+   "StartMonth": "June",
+   "EndMonth": "September",
+   "ProjectOwner": "Amanda",
+   "Notes": "I'm putting future updates on hold until further notice"
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Pathways CPMs & FGs",
+   "StartMonth": "April",
+   "EndMonth": "August",
+   "ProjectOwner": "Amanda",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "RCU website",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "Amanda",
+   "Notes": "Updated as needed"
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "RCU desktop calendar",
+   "StartMonth": "December",
+   "EndMonth": "December",
+   "ProjectOwner": "Amanda",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "RCU Promotional Toolkit updates",
+   "StartMonth": "July",
+   "EndMonth": "September",
+   "ProjectOwner": "Amanda",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Annual Report for ORED",
+   "StartMonth": "October",
+   "EndMonth": "December",
+   "ProjectOwner": "Amanda",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Connections (Fall)",
+   "StartMonth": "August",
+   "EndMonth": "November",
+   "ProjectOwner": "Carl",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Connections (Spring)",
+   "StartMonth": "December",
+   "EndMonth": "May",
+   "ProjectOwner": "Carl",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Connections (Web)",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "Carl",
+   "Notes": "Contract specifically calls for posting content every month, and that requires getting material."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Curricula Editing",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "Carl",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "PL/SI Editing",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "Carl",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "External Comm Editing",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "B, H & C",
+   "Notes": "News releases, Annual Report, announcements, etc."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "RCU Quarterly",
+   "StartMonth": "Quarterly",
+   "EndMonth": "Quarterly",
+   "ProjectOwner": "Carl",
+   "Notes": " "
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Misc. Curricula Docs Editing",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "Carl",
+   "Notes": "Facilities guides, pathways posters, etc."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "School Focus",
+   "StartMonth": "TBD",
+   "EndMonth": "TBD",
+   "ProjectOwner": "Carl",
+   "Notes": "Usually the same type of schedule as Connections"
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Final Review Process",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "B, H & C",
+   "Notes": "If we�re going to start a two-editor process of reviewing everything, this needs to be noted."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Misc. Doc Editing",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "B, H & C",
+   "Notes": "There are a lot of things that don�t fit into specific categories/funding streams for which we all act as primary editors. These include: Innovative Institute programs and promotional material, MS ACTE programs, etc."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Strategic Goals Team Leadership",
+   "StartMonth": "January",
+   "EndMonth": "December",
+   "ProjectOwner": "A, H & C",
+   "Notes": "We should note this because it�s taking up our T&E."
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Contract Quarterly Updates - Q1",
+   "StartMonth": "October",
+   "EndMonth": "October",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Contract Quarterly Updates - Q2",
+   "StartMonth": "January",
+   "EndMonth": "January",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Contract Quarterly Updates - Q3",
+   "StartMonth": "April",
+   "EndMonth": "April",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Contract Quarterly Updates - Q4",
+   "StartMonth": "July",
+   "EndMonth": "July",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "MDE Annual Report Info Gathering",
+   "StartMonth": "July",
+   "EndMonth": "July",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "MDE Annual Report Writing/Editing",
+   "StartMonth": "August",
+   "EndMonth": "August",
+   "ProjectOwner": "B, H, C",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "MDE Annual Report Due",
+   "StartMonth": "September",
+   "EndMonth": "September",
+   "ProjectOwner": "Brock",
+   "Notes": ""
+ },
+ {
+   "Team": "Communication",
+   "ProjectName": "Comm Team Webinars",
+   "StartMonth": "Oct",
+   "EndMonth": "Mar",
+   "ProjectOwner": "B, H, C, A",
+   "Notes": ""
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Coach U",
+   "StartMonth": "February",
+   "EndMonth": "February",
+   "ProjectOwner": "Cindy",
+   "Notes": "Spring Meeting"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Coach U",
+   "StartMonth": "April",
+   "EndMonth": "April",
+   "ProjectOwner": "Cindy",
+   "Notes": "School Visits"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Coach U",
+   "StartMonth": "July",
+   "EndMonth": "July",
+   "ProjectOwner": "Cindy",
+   "Notes": "onboarding"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Coach U",
+   "StartMonth": "October",
+   "EndMonth": "October",
+   "ProjectOwner": "Cindy",
+   "Notes": "Fall Training"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "RCU Professional Development",
+   "StartMonth": "January",
+   "EndMonth": "January",
+   "ProjectOwner": "Betsey",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "RCU Professional Development",
+   "StartMonth": "May",
+   "EndMonth": "May",
+   "ProjectOwner": "Betsey",
+   "Notes": ""
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "RCU Professional Development",
+   "StartMonth": "August",
+   "EndMonth": "August",
+   "ProjectOwner": "Betsey",
+   "Notes": ""
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "RCU Professional Development",
+   "StartMonth": "December",
+   "EndMonth": "December",
+   "ProjectOwner": "Betsey",
+   "Notes": ""
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Innovative Leadership Summit",
+   "StartMonth": "February",
+   "EndMonth": "February",
+   "ProjectOwner": "Cindy",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Innovative Institute",
+   "StartMonth": "June",
+   "EndMonth": "June",
+   "ProjectOwner": "Cindy",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "NTI Summer II",
+   "StartMonth": "June",
+   "EndMonth": "June",
+   "ProjectOwner": "Cindy",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Middle School Methods",
+   "StartMonth": "June",
+   "EndMonth": "June",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Pathways Methods Courses",
+   "StartMonth": "July",
+   "EndMonth": "July",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "MSACTE",
+   "StartMonth": "July",
+   "EndMonth": "July",
+   "ProjectOwner": "Pam/RCU",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Professional Development for School Districts",
+   "StartMonth": "August",
+   "EndMonth": "August",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "New Teacher Induction (NTI) Coaching Visits",
+   "StartMonth": "January",
+   "EndMonth": "March",
+   "ProjectOwner": " ",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "New Teacher Induction (NTI) Coaching Visits",
+   "StartMonth": "September",
+   "EndMonth": "November",
+   "ProjectOwner": "",
+   "Notes": ""
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "NTI Late Hire",
+   "StartMonth": "August",
+   "EndMonth": "September",
+   "ProjectOwner": "Cindy",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "NTI Regional 1",
+   "StartMonth": "October",
+   "EndMonth": "October",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "NTI Regional 2",
+   "StartMonth": "January",
+   "EndMonth": "January",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "NTI Regional 3",
+   "StartMonth": "March",
+   "EndMonth": "March",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Early College/Middle College Leadership Assembly",
+   "StartMonth": "November",
+   "EndMonth": "November",
+   "ProjectOwner": "Myra",
+   "Notes": " "
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Revise SPED Alternate Standards Documents",
+   "StartMonth": "August",
+   "EndMonth": "December",
+   "ProjectOwner": "Ginny",
+   "Notes": "Fall"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Hold  writing team meetings to revise the Teacher Resource Guides for SPED",
+   "StartMonth": "August",
+   "EndMonth": "December",
+   "ProjectOwner": "Ginny",
+   "Notes": "Fall"
+ },
+ {
+   "Team": "PL",
+   "ProjectName": "Revise the IEP Form and the IEP Guidance Document annually to meet any changes in SPED guidelines.",
+   "StartMonth": "May",
+   "EndMonth": "August",
+   "ProjectOwner": "Ginny",
+   "Notes": "Summer"
+ }
+]}
